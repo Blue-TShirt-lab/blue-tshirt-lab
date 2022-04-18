@@ -1,0 +1,50 @@
+.upper {
+    font-family: 'Grape Nuts', cursive;
+    font-size: 20px;
+    list-style-type: none;
+    display: flex;
+    background-color: rgba(102, 102, 102, 0.747);
+}
+.first{
+    margin-top: 50px;
+    margin-left: 400px;
+    color: white;
+}
+.second{
+    margin-top: 50px;
+    margin-left: 400px;
+    color: white;
+}
+.logo{
+    margin-top: 10px;
+    margin-left: 300px;
+}
+.magnet{
+    font-family: 'Grape Nuts', cursive;
+    background: url(magnet.jpg) no-repeat center top/cover;
+    padding-top: 100px;
+    padding-bottom: 1000px;
+}
+.magnet h1{
+    font-size: 40px;
+    margin-left: 300px;
+}
+.magnet p {
+    font-size: 30px;
+    margin-left: 300px;
+}
+.magnet button{
+    margin: 100px 0px 0px 600px;
+    font-family: 'Anton', sans-serif;
+    font-size: 40px;
+    padding: 50px 50px 50px 50px;
+    border: 1px solid #000;
+    text-transform: uppercase;
+    cursor: pointer;
+    color: #000;
+    background-color: transparent;
+} 
+.footer{
+    margin-left: 600px;
+    font-size: 50px;
+}
